@@ -55,13 +55,7 @@ I'm Yogesh singh, a web developer with knowledge of frontend and backend languag
 
 ## Where to find me
 <p>
-  <a href="https://github.com/yogeshsingh101200" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/github-2b2b2b?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yogesh-singh-5a457a16a/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yogeshsingh101200@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://github.com/yogeshsingh101200" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-2b2b2b?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yogesh-singh-5a457a16a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:yogeshsingh101200@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
