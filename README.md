@@ -3,6 +3,18 @@
 <br/>
 I'm Yogesh singh, a web developer with knowledge of frontend and backend languages, frameworks and best code practices. I believe in learning by doing and I follow it, so whenever I have to learn a new technology or framework I just jump in and try to build something with it that I like or use with that. I like watching other people code and also like reading other people's code, I believe that I learn a lot by doing so.
 
+- 🔭 I’m currently working on improving my personal projects.
+
+- 🌱 I’m currently learning problem solving with data structures and algorithms.
+
+- 👯 I’m looking to collaborate on free and open source projects.
+
+- 👨‍💻 All of my projects are available at [https://github.com/yogeshsingh101200](https://github.com/yogeshsingh101200)
+
+- 💬 Ask me about Marvel movies(explanations, theories, easter eggs, etc.)
+
+- 📫 How to reach me: [yogeshsingh101200@gmail.com](mailto:yogeshsingh101200@gmail.com)
+
 ## &#128295; Tools and Technologies
 <p>
   <img alt="os" src="https://img.shields.io/badge/os-linux-blue?logo=linux&logoColor=white" />
@@ -41,17 +53,15 @@ I'm Yogesh singh, a web developer with knowledge of frontend and backend languag
 />
 </p>
 
-<!--
-**yogeshsingh101200/yogeshsingh101200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Where to find me
+<p>
+  <a href="https://github.com/yogeshsingh101200" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/github-2b2b2b?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yogesh-singh-5a457a16a/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yogeshsingh101200@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
